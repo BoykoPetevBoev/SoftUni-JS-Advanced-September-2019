@@ -17,14 +17,13 @@ function solve() {
                 operator = false;
             }
             if (result.innerHTML != '') {
-                console.log(result.innerHTML);
                 return '';
             }
-            if (numbers.includes(btn) || (btn === '.' && !stringExp.includes('.') && stringExp != '')) {
+            if (numbers.includes(btn) || (btn === '.' && stringExp != '')) {
                 stringExp += btn;
                 expression.innerHTML = stringExp;
             }
-            else if (operators.includes(btn) && !operator) {
+            else if (operators.includes(btn) && !operator && !stringExp.endsWith('.')) {
                 stringExp += ` ${btn} `;
                 expression.innerHTML = stringExp;
                 operator = true;
