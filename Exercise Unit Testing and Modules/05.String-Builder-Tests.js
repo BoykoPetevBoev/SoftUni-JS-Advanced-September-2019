@@ -3,14 +3,6 @@ const expect = require('chai').expect;
 const assert = require('chai').assert;
 
 describe("05.StringBuilder function", function () {
-
-     it('should have the correct function properties', function () {
-        assert.isFunction(StringBuilder.prototype.append);
-        assert.isFunction(StringBuilder.prototype.prepend);
-        assert.isFunction(StringBuilder.prototype.insertAt);
-        assert.isFunction(StringBuilder.prototype.remove);
-        assert.isFunction(StringBuilder.prototype.toString);
-    });
     describe('constructor', function () {
         it('Test withh string', function () {
             let myObj = new StringBuilder('str');
