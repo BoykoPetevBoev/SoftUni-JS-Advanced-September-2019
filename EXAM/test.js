@@ -10,10 +10,13 @@ describe('ClassName', function () {
     });
     describe('description', function () {
         it('description', function () {
-            expect(TODO).to.equal('Value');
+            expect(a).to.equal('value');
         });
         it('description', function () {
             expect(() => TODO).to.throw(Error, 'Error Mesage');
+        });
+        it('description', function(){
+            expect(arr).to.deep.equal([]);
         });
     });
 });
