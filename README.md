@@ -1,4 +1,4 @@
-![JS-Advanced-September-2019]()
+![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvanced.jpg)
 
 ## За курса
 
@@ -27,6 +27,6 @@
 
 ## Сертификат
 
-![alt text](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg)
+![Image Not Found](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg)
 
 ---
