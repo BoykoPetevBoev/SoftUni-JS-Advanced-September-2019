@@ -30,3 +30,5 @@
 ![Image Not Found](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg)
 
 ---
+
+[SoftUni](https://softuni.bg) | [Judge ](https://judge.softuni.bg) | [Kinvey ](https://console.kinvey.com/apps) | [Postman](www.getpostman-beta.com) | [Handlebars](https://handlebarsjs.com) | [Chai](https://www.chaijs.com) | [Mocha](https://mochajs.org) 
