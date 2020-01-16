@@ -31,4 +31,4 @@
 
 ---
 
-[SoftUni](https://softuni.bg) | [Judge ](https://judge.softuni.bg) | [Kinvey](https://console.kinvey.com/apps) | [Postman](www.getpostman-beta.com) | [Handlebars](https://handlebarsjs.com) | [Chai](https://www.chaijs.com) | [Mocha](https://mochajs.org) 
+[SoftUni](https://softuni.bg)  |  [Judge ](https://judge.softuni.bg)  |  [Kinvey](https://console.kinvey.com/apps)  |  [Postman](www.getpostman-beta.com)  |  [Handlebars](https://handlebarsjs.com)  |  [Chai](https://www.chaijs.com)  |  [Mocha](https://mochajs.org) 
