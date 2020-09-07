@@ -1,5 +1,7 @@
 ![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvanced.jpg)
 
+<img src="https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg" height="1132" width="390">
+
 ## За курса
 
 В курса "**JS Advanced**" ще получите задълбочени познания по езика **JavaScript** като ще изучавате по-сложните концепции като **IFFE**, **clousure**, **objects** и **classes**. Този курс ще развие **алгоритмичното** ви мислене и ще надгради знанията ви за **DOM дървото**. Ще се научите да **манипулирате DOM дървото**, да **добавяте** и **триете елементи** от него. Освен това, ще се научите как да **тествате кода** си използвайки библиотеки за **Unit тестване**. Ще разгледате **OOP частта** на **JavaScript** (inheritance, prototypes and prototype chains).
@@ -24,10 +26,6 @@
 - Classes
 - Unit Testing and Modules
 - Strings and RegExp
-
-## Сертификат
-
-![Image Not Found](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg)
 
 ---
 
