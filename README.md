@@ -1,6 +1,6 @@
 ![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvanced.jpg)
 
-<img src="https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg" height="1132" width="390">
+<img src="https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg" height="1132">
 
 ## За курса
 
