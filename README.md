@@ -1,6 +1,7 @@
-![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvanced.jpg)
+![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/_README/JSAdvanced.jpg)
+![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/_README/JS-Advanced-Certificate.png)
 
-<img src="https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/JSAdvancedCertificate.jpeg" height="1132">
+---
 
 ## За курса
 
@@ -26,8 +27,6 @@
 - Classes
 - Unit Testing and Modules
 - Strings and RegExp
-
----
 
 ## Полезни линкове
 
