@@ -1,4 +1,5 @@
 ![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/_README/JSAdvanced.jpg)
+
 ![JS-Advanced-September-2019](https://github.com/BoykoPetevBoev/JS-Advanced-September-2019/blob/master/_README/JS-Advanced-Certificate.png)
 
 ---
